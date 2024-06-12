@@ -1,2 +1,2 @@
-#stfilesdigitonly5-listfilesdigitonlyd!/bin/bash
+#!/bin/bash
 ls -na
