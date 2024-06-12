@@ -1,1 +1,3 @@
-my readme file devops task
+#!/bin/bash
+working directory repo
+
