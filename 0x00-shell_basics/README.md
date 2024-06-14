@@ -1,2 +1,2 @@
 #!/bin/bash
-Readme textfile
+Readme textfile shell basics
