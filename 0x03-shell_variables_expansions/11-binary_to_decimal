@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(($BINARY2$(log$BINARY)))
+echo $((2#$BINARY))
